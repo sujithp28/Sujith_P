@@ -51,8 +51,8 @@
 
 **Version control Syayem & Build tool**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Maven](https://img.shields.io/badge/Git-2b2b2b?style=for-the-badge&logo=git&logoColor=white)
-![Gradel](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-2b2b2b?style=for-the-badge&logo=Maven&logoColor=white)
+![Gradel](https://img.shields.io/badge/Gradel-0D1117?style=for-the-badge&logo=Gradel&logoColor=white)
 
 ---
 
