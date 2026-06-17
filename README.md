@@ -47,7 +47,12 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+
+**Version control Syayem & Build tool**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Maven](https://img.shields.io/badge/Git-2b2b2b?style=for-the-badge&logo=git&logoColor=white)
+![Gradel](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
@@ -90,6 +95,6 @@
 ## 📫 Connect With Me
 
 <p>
-  📧 <a href="mailto:YOUR_EMAIL">psujith393@gmail.com</a><br>
+  📧 <a href="mailto:YOUR_EMAIL">sujith</a><br>
   💼 <a href="https://linkedin.com/in/YOUR_LINKEDIN">psujith</a>
 </p>
