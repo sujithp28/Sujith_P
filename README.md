@@ -49,10 +49,11 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
-**Version control Syayem & Build tool**
+**Version Control System & Build Tool**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-2b2b2b?style=for-the-badge&logo=Maven&logoColor=white)
-![Gradel](https://img.shields.io/badge/Gradel-0D1117?style=for-the-badge&logo=Gradel&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 
 ---
 
