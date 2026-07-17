@@ -83,17 +83,6 @@
 - 🔐 **Security & Compliance**: Implement data encryption, access controls, and audit logging
 - 🐍 **Python Development**: Create data processing scripts, automation tools, and integration services
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sujithp28&show_icons=true&theme=dark&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujithp28&layout=compact&theme=dark&hide_border=true" width="48%" />
-</p>
-
----
-
 ## 📌 Featured Projects
 
 | Project | Description | Stack |
