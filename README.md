@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Sujith</h1>
-<h3 align="center">DevOps & Data Engineer | AWS · Data Platforms · Terraform · CI/CD</h3>
+<h3 align="center">DevOps & Data Engineer | AWS · EKS · Data Platforms · Terraform · CI/CD</h3>
 
 <p align="center">
   🚀 5+ years designing, automating & managing cloud infrastructure<br>
