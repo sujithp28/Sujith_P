@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Sujith</h1>
-<h3 align="center">Senior DevOps Engineer | AWS · Kubernetes · Terraform · CI/CD</h3>
+<h3 align="center">DevOps & Data Engineer | AWS · Data Platforms · Terraform · CI/CD</h3>
 
 <p align="center">
   🚀 5+ years designing, automating & managing cloud infrastructure<br>
@@ -59,18 +59,29 @@
 
 ## ☁️ AWS Services I Work With
 
-`EC2` `VPC` `IAM` `S3` `RDS` `Route 53` `CloudWatch` `Lambda` `SNS` `SQS` `EventBridge` `ECR` `EKS` `Auto Scaling` `ALB / NLB`
+**Compute & Containers:** `EC2` `ECS` `EKS` `Lambda` `Fargate` `Batch`
+**Storage & Databases:** `S3` `EBS` `EFS` `RDS` `Aurora` `DynamoDB` `Redshift` `ElastiCache`
+**Networking:** `VPC` `Route 53` `CloudFront` `API Gateway` `ELB` `Direct Connect`
+**Data & Analytics:** `Glue` `Athena` `EMR` `Kinesis` `MSK` `Quicksight` `DataBrew` `Lake Formation`
+**Management & Governance:** `IAM` `CloudWatch` `CloudTrail` `Config` `Organizations` `Service Catalog`
+**Application Integration:** `SNS` `SQS` `Step Functions` `EventBridge` `AppFlow`
+**Security:** `GuardDuty` `Inspector` `Macie` `WAF` `Shield` `Secrets Manager` `KMS`
+**DevOps:** `CodeCommit` `CodeBuild` `CodeDeploy` `CodePipeline` `Systems Manager`
 
 ---
 
-## 📈 What I Do
+## 📊 What I Do
 
-- 🏗 Build and manage Kubernetes platforms on **AWS EKS**
-- ⚙️ Design end-to-end **CI/CD pipelines** using Jenkins & GitHub Actions
-- 🔧 Automate infrastructure provisioning with **Terraform** & CloudFormation
-- 📊 Implement monitoring & observability using **Dynatrace** & CloudWatch
-- 🔐 Manage cloud networking, **security**, and cost optimization
-- 🐍 Develop automation scripts using **Python** & Bash
+- 🏗 **Build Data Platforms**: Design and implement AWS-based data lakes, warehouses, and processing pipelines
+- ⚙️ **DevOps Automation**: Create CI/CD pipelines for both infrastructure and data applications using Jenkins & GitHub Actions
+- 🔧 **Infrastructure as Code**: Provision scalable, secure environments with Terraform (EKS, VPC, RDS, S3, etc.)
+- 📊 **Data Engineering**: Develop ETL/ELT pipelines, optimize data workflows, and implement data quality frameworks
+- 📈 **Analytics Enablement**: Build infrastructure that supports business intelligence and analytics workloads
+- 🔐 **Security & Governance**: Ensure data privacy, encryption, and access controls for sensitive information
+- 🐍 **Full-Stack Development**: Develop data applications and deployment scripts
+- 📊 **Monitoring & Observability**: Implement end-to-end monitoring for infrastructure and data pipelines
+- 🔐 **Security & Compliance**: Implement data encryption, access controls, and audit logging
+- 🐍 **Python Development**: Create data processing scripts, automation tools, and integration services
 
 ---
 
@@ -87,15 +98,26 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| 🚀 [Add your repo name](#) | Brief one-line description of what it does | Terraform · AWS · EKS |
-| ⚙️ [Add your repo name](#) | Brief one-line description of what it does | Jenkins · Docker · GitHub Actions |
-| 🔧 [Add your repo name](#) | Brief one-line description of what it does | Python · Ansible · CloudFormation |
+| 🚀 [terraform-aws-eks](https://github.com/sujithp28/terraform-aws-eks) | Production EKS module for deploying Spark/Flink/Airflow clusters | Terraform · AWS · EKS |
+| ⚙️ [terraform-aws-s3-iam](https://github.com/sujithp28/terraform-aws-s3-iam) | Secure data lake foundation with encryption, versioning, and lifecycle policies | Terraform · AWS · S3 · IAM |
+| 🔧 [github-actions-eks-cicd](https://github.com/sujithp28/github-actions-eks-cicd) | CI/CD pipeline for deploying data applications to EKS | GitHub Actions · Docker · Python |
+| 📊 [terraform-aws-rds](https://github.com/sujithp28/terraform-aws-rds) | Managed database infrastructure for analytical workloads and data warehousing | Terraform · AWS · RDS |
+| 📈 [terraform-aws-monitoring](https://github.com/sujithp28/terraform-aws-monitoring) | Observability stack for monitoring data pipeline health and performance | Terraform · AWS · CloudWatch |
 
 ---
 
 ## 📫 Connect With Me
 
 <p>
-  📧 <a href="mailto:YOUR_EMAIL">sujith</a><br>
-  💼 <a href="https://linkedin.com/in/YOUR_LINKEDIN">psujith</a>
+  📧 <a href="mailto:sujith@example.com">sujith@example.com</a><br>
+  💼 <a href="https://www.linkedin.com/in/sujith-p-462538235">linkedin.com/in/sujith-p-462538235</a><br>
+  💻 <a href="https://github.com/sujithp28">github.com/sujithp28</a>
+</p>
+
+---
+
+*“Automate everything that can be automated.”*
+
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=sujithp28&label=Profile%20views&color=0e75b6&style=flat" alt="sujithp28" /> 
 </p>
